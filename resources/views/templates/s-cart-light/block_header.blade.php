@@ -45,7 +45,7 @@
 
                     @if (sc_config('link_account', null, 1) && config('s-cart.ecommerce_mode', 1))
                     @guest
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="#"><i class="fa fa-lock"></i> {{ sc_language_render('front.account') }}</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="#"><i class="fa fa-lock"></i> Account</a>
                         <ul class="rd-menu rd-navbar-dropdown">
                             <li class="rd-dropdown-item">
                                 <a class="rd-dropdown-link" href="{{ sc_route('login') }}"><i class="fa fa-user"></i> {{ sc_language_render('front.login') }}</a>

@@ -101,7 +101,7 @@
 {{--              @endif--}}
               @if (!sc_config('hidden_copyright_footer'))
               <div class="col-md-auto">
-                    Power by <a href="{{ config('s-cart.homepage') }}">Laravel</a>
+                    Powered by <a href="{{ config('s-cart.homepage') }}">Laravel</a>
               </div>
               @endif
             </div>
