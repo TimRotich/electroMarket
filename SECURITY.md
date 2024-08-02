@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within S-Cart ecommerce, please send an e-mail to Lanh Le via lanhktc@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within electroMarket, please send an e-mail to rotich.tim1@gmail.com. All security vulnerabilities will be promptly addressed.
